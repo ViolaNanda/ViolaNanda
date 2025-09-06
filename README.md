@@ -3,11 +3,14 @@
 
 ---
 
-## 👩‍💻 About Me
-- 🌸 Junior Web Developer with a strong interest in modern web technologies.  
-- 🎀 Experienced in building responsive websites with clean design and smooth user experience.  
-- 📖 Always learning new frameworks and tools to improve coding skills.  
-- 🤗 Open to collaboration on web projects, UI/UX design, or open-source contributions.  
+<h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">
+  🌸 <b>Junior Web Developer</b> with a strong interest in modern web technologies. <br>
+  🎀 <b>Experienced</b> in building responsive websites with clean design and smooth user experience. <br>
+  📖 <b>Always Learning</b> new frameworks and tools to improve coding skills. <br>
+  🤗 <b>Open to Collaboration</b> on Web Projects, UI/UX Design, or Open-Source contributions.  
+</p>  
 
 ---
 
