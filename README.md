@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Viola Nanda Hasnia]</h1>
+<h1 align="center">Hi 👋, I'm Viola Nanda Hasnia</h1>
 <h3 align="center">💻 Junior Web & Mobile Developer | 🎨 UI/UX Designer</h3>
 
 ---
