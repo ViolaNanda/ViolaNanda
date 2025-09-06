@@ -3,15 +3,11 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  🌱 <b>Currently Learning:</b> Laravel, React, Next.js, and Tailwind CSS <br>
-  💡 <b>Passionate About:</b> Web Development & Mobile Apps <br>
-  🎨 <b>Design Tools:</b> Creating sleek & intuitive interfaces in Figma <br>
-  📫 <b>Reach Me At:</b> <a href="mailto:nandaviola912@gmail.com">nandaviola912@gmail.com</a>
-</p>
- 
+## 👩‍💻 About Me
+- 🌸 Junior Web Developer with a strong interest in modern web technologies.  
+- 🎀 Experienced in building responsive websites with clean design and smooth user experience.  
+- 📖 Always learning new frameworks and tools to improve coding skills.  
+- 🤗 Open to collaboration on web projects, UI/UX design, or open-source contributions.  
 
 ---
 
