@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viola Nanda Hasnia</h1>
 <h3 align="center">💻 Junior Web & Mobile Developer | 🎨 UI/UX Designer</h3>
 
+<img src="./assetsgit/gif" alt="Female Web Developer" width="250"/>
 ---
 
 <h2 align="center">👩‍💻 About Me</h2>
