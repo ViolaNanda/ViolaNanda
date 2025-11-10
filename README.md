@@ -56,4 +56,4 @@
 
 ---
 
-<p align="center"><i>"♡✧˚ ༘ ⋆｡♡˚All Code Make With LOVE♡✧˚ ༘ ⋆｡♡˚"</i></p>
+<p align="center"><i>"♡✧˚ ༘ ⋆｡˚✧All Code Make With LOVE✧˚ ༘ ⋆｡♡˚"</i></p>
