@@ -4,6 +4,7 @@
 <p align="center">
   <img src="assetsgit/gif.gif" alt="Female Web Developer" width="250"/>
 </p>
+
 ---
 
 <h2 align="center">👩‍💻 About Me</h2>
@@ -32,12 +33,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViolaNanda&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViolaNanda&layout=compact&theme=radical)
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViolaNandaHasnia&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViolaNandaHasnia&theme=radical" height="180em" />
+</p>
 
 ---
 
@@ -56,4 +57,4 @@
 
 ---
 
-<p align="center"><i>"♡✧˚ ༘ ⋆｡˚✧All Code Make With LOVE✧˚ ༘ ⋆｡♡˚"</i></p>
+<p align="center"><i>"♡✧˚ ༘ ⋆｡˚✧All Code Made With LOVE✧˚ ༘ ⋆｡♡˚"</i></p>
