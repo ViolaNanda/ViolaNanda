@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViolaNandaHasnia&theme=radical" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViolaNandaHasnia&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViolaNanda&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViolaNanda&theme=radical" height="180em" />
 </p>
 
 ---
